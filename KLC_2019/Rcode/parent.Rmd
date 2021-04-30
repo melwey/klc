@@ -1,0 +1,72 @@
+---
+title: "Key Landscapes for the conservation of biodiversity in Sub-Saharan Africa.
+  Proposal for modification of polygons"
+author: "Melanie Weynants, with inputs from Conrad Aveling, Rob Olivier, Martyn Murray"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+header-includes:
+  - \usepackage[section]{placeins}
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  bookdown::html_document2: default
+  bookdown::pdf_document2: default
+  html_document:
+    fig_caption: yes
+    keep_md: yes
+    number_sections: no
+    theme: journal
+    toc: yes
+    toc_depth: 2
+    toc_float:
+      collapsed: yes
+---
+<img src="../../../DOC/pen_biopama_logo_1.png" style="position:absolute;top:0px;right:0px;width:200px" />
+
+```{r setup, include=FALSE}
+
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+
+# load packages
+# data processing
+library(dplyr)
+library(readr)
+library(ggplot2)
+# BIOPAMA colours
+biopama_cols <- c("#90c04e", "#45ac53", "#679b95", "#91af90", "#70b6d1", "#a8d0e3", "#cc775d", "#a25a28")#c("#90c14f", "#41ad53", "#61ab79", "#71a6a1","#91b090", "#a7d1e5","#cf785e","#a25b28")
+```
+# Context
+Key Landscape for Conservation (KLC) were proposed in the European Commission publication "Larger than Elephants" (EC, 2015).
+The polygons shown in the report did not always emcompass the target protected areas and their limits were difficult to use in quantitative spatial analyses. We therefore hereby propose new polygons, that will be used for future anaylses.
+In the next pages we present a map for each KLC, with the polygon from 2015 and the new proposal, as well as some justification to the modification.
+
+\newpage
+# Proposed modifications
+![Overall view of all KLCs and protected areas in Sub-Saharan africa](../../output/maps/map_africa_klc_pa.png)
+
+\FloatBarrier
+
+```{r getdata, results=FALSE, eval=TRUE, echo=FALSE, message=FALSE, warning=FALSE}
+maps <- list.files("../../output/maps/KLC_new",full.names = TRUE)
+
+KLC_comments <- jsonlite::fromJSON(read_file("../../output/KLC_comments.txt"))
+KLC_name <- jsonlite::fromJSON(read_file("../../output/KLC_name.txt"))
+
+```
+
+
+```{r echo=FALSE, eval=TRUE, include=FALSE}
+
+png(filename = "noplot.png")
+ggplot()
+dev.off()
+
+out <- NULL
+for (klc in names(KLC_comments)){
+  env=new.env() #create a new empty environment, it inherits objects from the current environment.
+  out <- c(out, knit_child('child.Rmd', envir=env))
+}
+
+```
+`r paste(out, collapse='\n')`

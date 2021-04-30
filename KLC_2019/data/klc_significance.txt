@@ -1,0 +1,78 @@
+klc_id |is_tfca|is_chs|{significance}
+SAF_01|1|0|{"Unique Okavango delta wetlands", "Wildlife migrations", "Large elephant population", "Other large mammals", "Peace Park"}
+SAF_02|1|0|{"Riverine woodlands", "Regional endemism"}
+SAF_03|1|0|{"Unique Kalahari", "Gemsbokm etc."}
+SAF_04|1|0|{"Zambezi River", "Floodplain", "Escarpment", "Large mammal populations"}
+SAF_05|1|0|{"Southern mountains", "Escarpments", "Rich endemic flora", "Wetlands", "San culture"}
+SAF_06|1|0|{"Fish River canyon"}
+SAF_07|1|0|{"High biodiversity", "5 Ramsar sites", "Wetlands, woodlands"}
+SAF_08|1|0|{"Forest, scenery, wildlife and culture"}
+SAF_09_10|1|0|{"Montane grassland and flora", "Wetlands", "Restocking programme", "Luangwa River and floodplain", "Woodlands, escarpment", "Large mammal populations (elephant, hippo, buffalo,able and wild dog). Will become increasingly important for elephant with climate change"}
+SAF_11|1|0|{"South-western part of Congo Basin rainforest", "Chimpanzees and lowland gorillas"}
+SAF_13|0|0|{"Unique salt pans, waterholes", "black rhino, elephant, springbok, gemsbok, etc."}
+SAF_14_15|0|1|{"Luangwa River and floodplain", "Vast wetlands (lakes, floodplains, swamps)", "Woodlands, escarpment", "Large mammal populations", "Black lechwe", "Shoebills", "Important fisheries for local communities"} 
+SAF_16|0|0|{"Endemic fish fauna"}
+SAF_17|0|0|{"Bushland and grassland over Kalahari Sands", "Large mammal populations", "Traditional home of Bushmen, or San"}
+SAF_18|0|0|{"Cape mountain zebra (endangered)", "Other large mammals"}
+SAF_19|0|0|{"Last refuge of Giant Sable", "Other large mammals of Miombo woodlands"}
+SAF_20|0|0|{"Cape Floral Region is one of the world’s 18 biodiversity hotspots", "69 % of the estimated 9 000 plant species in the region are endemic", "1 435 species identified as threatened"}
+SAF_21|0|1|{"Lemurs and other endemic fauna and flora", "World Heritage"} 
+EAF_01|0|0|{"Major plains game migration", "Large carnivores", "Elephant, rhino", "Unique crater"}
+EAF_01_wLoliondo|0|0|{"Major plains game migration", "Large carnivores", "Elephant, rhino", "Unique crater"}
+EAF_02|0|0|{"Serial World Heritage Site", "Flamingos, water birds", "Rhino"}
+EAF_03|0|0|{"Glaciated mountain", "Montane endemics", "Carnivores", "Very important elephant area, rhinos"}
+EAF_04|1|1|{"Wide variety of wildlife habitats", "Large mammal populations important for elephant, hippo, buffalo, sable and wild dog", "Migration corridor with village wildlife management areas", "possibly rhino"}
+EAF_05|0|0|{"Montane endemics, gelada baboon, wolf, ibex"}
+EAF_06|0|0|{"World Heritage Site", "Fossil sites", "Desert species"}
+EAF_07|0|0|{"Glaciated mountain", "Alpine flora", "Forests to arid savannah", "Very important elephant area, rhino, Grevy’s zebra and other game"}
+EAF_08|0|0|{"Major plains game migration"}
+EAF_09|0|0|{"Alpine flora, montane endemics"}
+EAF_10|0|0|{"Endemics", "Primates"}
+EAF_11|0|0|{"Very important elephant area and other game", "Forest, montane grassland and endemics"} 
+EAF_12|0|0|{"Very important elephant area and other game", "Malagarasi river and extensive swamps, lakes"}
+EAF_13|0|0|{"Forest and endemics"}
+EAF_14|0|0|{"Forest and endemics", "Savannah"}
+EAF_15|0|0|{"Endangered Itigi-Sumbu thicket", "Woodlands, escarpment", "Scenery, wildlife – will become increasingly important for elephant with climate change", "Lake Tanganyika – second largest freshwater lake in world by volume and the second deepest", "Endemic fish fauna", "Chimpanzees"}
+EAF_16|0|0|{"Endemic fish fauna"}
+WAF_01|0|0|{"Rare Saharan large mammals: Scimitar oryx, Dama gazelle, Addax, Dorcas"}
+WAF_02|0|0|{"Coastal wetlands for migratory and water birds"}
+WAF_03|0|0|{"Coastal wetlands for migratory and water birds", "Coastline and coastal waters for critically endangered Mediterranean monk seal", "Desert sector"}
+WAF_04|1|1|{"Lion, wild dog, cheetah, leopard, elephant, giraffe, manatee, roan antelope, buffalo"}
+WAF_05|0|1|{"Leopard, elephant, roan antelope, buffalo"}
+WAF_06|0|0|{"Lion, giant eland, roan antelope, buffalo, chimpanzee, elephant"}
+WAF_07|0|0|{"Elephant", "Wetlands of critical importance to the migrating waterbirds"}
+WAF_08|0|0|{"Lion", "Elephant"}
+WAF_09|0|0|{"Elephant, roan antelope, buffalo"}
+WAF_10|0|1|{"Endemic species (pygmy hippo, chimpanzee, Jentink’s and zebra duikers)", " More than 1 300 vascular plant species recorded", "12 endemic birds"}
+WAF_21|0|0|{"Water tower and unique biodiversity", "Rich flora", "317 vertebrate species (duikers, big cats, civets, chimpanzees and several types of viviparous toads)", " Many invertebrates"} 
+WAF_11|0|0|{"Forest elephant, pygmy hippo, Jentink’s duiker, water chevrotain, leopard and 13 species of primate, one of the highest densities of chimpanzees in West and Central Africa (Loma Mountains)", "More than 300 forest-dependent birds; more than 25 are threatened or restricted range species"}
+WAF_12|0|0|{"Forest elephant, pygmy hippo, leopard", "Nine species of primates", "More than 250 species of birds"}
+WAF_13|0|0|{"Endangered monkeys, amphibians and birds", "Manatee"}
+WAF_14|0|0|{"Best developed mangroves in West Africa with migratory and water birds and endangered species (manatee and pygmy hippo)", "Success story of forest governance"}
+WAF_15|0|0|{"Mosaic of delta rivers, rivers, sandy coast and islands and islets with mangroves, savannahs, forests and marine areas", "Breeding ground for turtles and wetlands of critical importance to the migrating waterbirds"}
+WAF_16|0|0|{"Mosaic of delta rivers, rivers, sandy coast and islands and islets with mangroves, savannahs, forests and marine areas", "Breeding ground for turtles and wetlands of critical importance to the migrating waterbirds"}
+WAF_17|0|0|{"Mosaic of delta rivers, rivers, sandy coast and islands and islets with mangroves, savannahs, forests and marine areas", "Breeding ground for turtles and wetlands of critical importance to the migrating waterbirds"}
+WAF_18|0|0|{"Wetlands, floodplains important for birds", "This area is not covered by a direct conservation measure, but should be supported by the special fund for new or larger KLCs and KCAs in savannah areas."}
+WAF_19|0|0|{"Wetlands, floodplains important for birds", "This area is not covered by a direct conservation measure, but should be supported by the special fund for new or larger KLCs and KCAs in savannah areas."}
+WAF_20|0|0|{"Mosaic of delta rivers, rivers, sandy coast and islands and islets with mangroves, savannahs, forests and marine areas", "Breeding ground for turtles and wetlands of critical importance to the migrating waterbirds"}
+CAF_01|0|1|{"Afro-montane endemics", "Cross river sub species of gorilla"}
+CAF_02|0|1|{"Albertine Rift Ecoregion", "3 World Heritage Sites", "Entire mountain gorilla population and important chimpanzee populations", "Majority of Albertine endemics", "Exceptional tourism potential", "Protection of vital freshwater fish stocks", "Watershed protection"}
+CAF_03|0|0|{"Vast contiguous block of mainly intact moist forest", "4 WHS (3 x natural, 1 x cultural and natural)", "Majority of Central Africa’s remaining forest elephants", "Majority of Central Africa’s lowland gorillas and chimpanzees", "Endemic sun tailed monkey (Lopé)", "Ancient rock art (Lopé)", "Major portion of Congo basin flora", "Good potential for PPPs with logging and mining sector and with protected area management specialists"}
+CAF_04_SAF_11|1|0|{"Inland wetlands", "Endangered manatee population", "Forest elephant and apes", "Globally important for marine turtles (4 species), whales and dolphins (17 species)", "High tourist potential", "Protects regionally important marine fish stocks", "Potential for PPPs with logging and oil sectors", "South-western part of Congo Basin rainforest", "Chimpanzees and lowland gorillas"}
+CAF_05|0|1|{"Largest Congo elephant population", "Hippos, giraffe, lion, savannah ungulates", "Bongo, giant eland, giant forest hog"}
+CAF_06|0|1|{"World Heritage Site", "Until recent conflict good CBNRM results from safari hunting in Zone Pilote de Sangba buffer zone"}
+CAF_07|0|1|{"World Heritage site", "Bonobos, endemic small primates"}
+CAF_08|0|0|{"Okapi, forest elephant, chimpanzee, forest buffalo, Congo peacock, aquatic genet"}
+CAF_09|0|0|{"Grauer’s gorilla, forest elephant, small primates, forest buffalo"}
+CAF_10|0|0|{"Grauer’s gorilla (important site for this species given its very heterogeneous distribution in Eastern DR Congo) and other endemics including okapi, aquatic genet, Congo peacock"}
+CAF_11|0|1|{"Endemic Congo zebra and other plains mammals", "Spectacular landscapes", "Tourism potential", "Very important watershed protection"}
+CAF_12|0|0|{"Bonobo, elephant, sitatunga, etc."}
+CAF_13|0|0|{"Bonobo", " ogether with Lac Tele in Congo this is the largest area of protected Congolian swamp forest", "Protection of vital freshwater fish stocks"}
+CAF_14|0|0|{"Chimpanzees – one of the few viable chimp populations in the Albertine Rift", "Endemic subspecies of Angolan colobus and red colobus", "Albertine bird endemics"}
+CAF_15|0|1|{"Bonobo, okapi, Congo peacock, two newly described species of small primate"}
+CAF_16|0|1|{"One of largest remaining savannah elephant populations in Central Africa", "Gorillas, chimps, forest savannah ecotone species"}
+CAF_17|0|0|{"Savannah elephants", "Savannah ungulates (23 antelope species) including giant eland"}
+CAF_18|0|0|{"Savannah elephant, savannah ungulates", "High tourism potential"}
+CAF_06_18|0|0|{"1 World Heritage Site", "Until recent conflict good CBNRM results from safari hunting in Zone Pilote de Sangba buffer zone", "Savannah elephant, savannah ungulates", "High tourism potential"}
+CAF_19|0|0|{"Pleistocene refuge, with the highest species richness and diversity of any site in western Central Africa", "Mandrills", "Vital water catchment area", "On WHS tentative list"}
+CAF_20|0|0|{"Spectacular forest covered volcanic landscapes with a large altitudinal range (0-3 000 m) (Pico)", "5 endemic sub-species of primate", "Globally important beaches for marine turtles", "On the WHS tentative list? (Pico)", "Plant and bird endemics (Obo)", "Vital for watershed protection", "Landscapes of outstanding scenic interest with high tourist potential", "On the WHS tentative list? (Obo)"}

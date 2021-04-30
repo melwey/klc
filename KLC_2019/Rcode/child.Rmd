@@ -1,0 +1,25 @@
+---
+title: "Individual KLC"
+author: 'Melanie Weynants'
+date: "September 12, 2019"
+output: 
+  pdf_document
+  html_document
+---
+```{r echo=FALSE, eval=TRUE, include=FALSE}
+library(knitr)
+# import map
+map <- paste0("../../output/maps/KLC_new/KLC_", klc,".png")
+# check if file exists
+if (!map %in% maps){
+  map <- "noplot.png"
+}
+
+```
+
+## `r paste(klc, KLC_name[[klc]], sep = ": ")`
+`r KLC_comments[[klc]]`
+
+![`r klc`](`r map`)
+\FloatBarrier
+\newpage
