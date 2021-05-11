@@ -29,4 +29,4 @@ For the statistics based on raster data, we used GEE o R package raster.
 
 They are published as REST services on the BIOPAMA API (https://api.biopama.org)
 
-Folder [KLC_indicators](https://github.com/melwey/klc/tree/master/KLC_2019) holds the scripts used to create and publish the indicators.
+Folder [KLC_indicators](https://github.com/melwey/klc/tree/master/KLC_indicators) holds the scripts used to create and publish the indicators.
