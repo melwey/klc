@@ -1,7 +1,7 @@
 -- create indicator tables (created in and exported from biopamarest; imported into biopama_api)
 
 -- add image to schema
-COMMENT ON SCHEMA klc IS 'Key Landscapes for Conservation {{''img'':''https://op.europa.eu/o/opportal-service/thumbnail/cellar/d76ac7eb-bc4a-11e6-a237-01aa75ed71a1.0001.01/DOC_1''}}';
+COMMENT ON SCHEMA klc IS 'Key Landscapes for Conservation {{''img'':''https://raw.githubusercontent.com/melwey/klc/master/KLC_indicators/LargerThanElephants2015.png?token=AK64EHN2DYFSRGR64GLDTWTATLSOC''}}';
 
 -- Table: klc.klc_countries
 
