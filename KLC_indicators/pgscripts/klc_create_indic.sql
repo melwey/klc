@@ -1,5 +1,8 @@
 -- create indicator tables (created in and exported from biopamarest; imported into biopama_api)
 
+-- add image to schema
+COMMENT ON SCHEMA klc IS 'Key Landscapes for Conservation {{''img'':''https://op.europa.eu/o/opportal-service/thumbnail/cellar/d76ac7eb-bc4a-11e6-a237-01aa75ed71a1.0001.01/DOC_1''}}';
+
 -- Table: klc.klc_countries
 
 DROP TABLE IF EXISTS klc.klc_countries;

@@ -93,6 +93,6 @@ ALTER FUNCTION klc.api_klc_cglc(text)
     OWNER TO biopama_api_user;
 
 COMMENT ON FUNCTION klc.api_klc_cglc(text)
-    IS 'KLC Copernicus Global Land Service land cover. Analysis by M. Weynants in April 2021. Given KLC_ID, returns land cover classes coverage for year 2015 to 2019, inside protected areas (pa = true) and overall (pa = false), in sq.km and %';
+    IS 'KLC Copernicus Global Land Service land cover. Analysis by M. Weynants in April 2021. Given KLC_ID, returns land cover classes coverage for years 2015 to 2019, overall (total), inside and outside protected areas, in sq.km and % of the land surface.';
 
 SELECT * FROM klc.api_klc_cglc('WAF_01') api_klc_cglc;

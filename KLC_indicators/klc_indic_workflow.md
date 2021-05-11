@@ -5,7 +5,7 @@ The scripts used to develop the indicators need to be executed in the following 
 ## Indicator creation
 The indictaors have first to be calculated.
 
-Indicators created on PostGIS use data stored on the biopamarest database hosted at the European Commission JRC, which is not accessible outside te internal network.
+Indicators created on PostGIS use data stored on the biopamarest database hosted at the European Commission JRC, which is not accessible outside the internal network.
 
 1. [klc_ecoregions_biopamarest.sql](https://github.com/melwey/klc/tree/master/KLC_indicators/pgscripts/klc_ecoregions_biopamarest.sql) creates a table with ecoregions coverage of KLCs. It depends on the KLC polygons and the marine and [terrestrial](https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world) ecoregions of the world. The marine ecoregions are the [Marine Ecoregions Of the World (MEOW)](https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas) and the [Pelagic provinces of the world (PPOW)](http://data.unep-wcmc.org/datasets/38).
 
@@ -13,7 +13,7 @@ Indicators created on PostGIS use data stored on the biopamarest database hosted
 
 3. [klc_pas_biopamarest.sql](https://github.com/melwey/klc/tree/master/KLC_indicators/pgscripts/klc_pas_biopamarest.sql) creates a table with countries coverage of KLCs. It depends on KLC polygons and protected areas polygons. We use the latest WDPA available at [protectedplanet.net](https://protectedplanet.net/)
 
-4. [klc_add_info.sql](https://github.com/melwey/klc/tree/master/KLC_indicators/pgscripts/klc_add_info) adds data from the above indicators to the KLC table that is then published on geoserver.
+4. [klc_add_info.sql](https://github.com/melwey/klc/tree/master/KLC_indicators/pgscripts/klc_add_info.sql) adds data from the above indicators to the KLC table, whichis then published on geoserver.
 
 Other indicators are calculated on Google Earth Engine.
 
