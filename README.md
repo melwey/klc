@@ -1,5 +1,5 @@
-# klc
-Key Landscapes for Conservation in Sub-Saharan Africa
+# Key Landscapes for Conservation in Sub-Saharan Africa - design, analyses and indicators
+[![DOI](https://zenodo.org/badge/234522983.svg)](https://zenodo.org/badge/latestdoi/234522983)
 
 Key Landscapes for Conservation (KLC) are areas recognised to be of global wildlife importance with intact ecosystems that are capable of sustaining wildlife populations in the face of increasing isolation from other similar areas (Larger Than Elephants - Inputs for EU strategic approach to wildlife conservation in Africa - Regional Analysis, European Commission, 2016).
 
